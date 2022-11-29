@@ -1,4 +1,3 @@
-
-void main(){
-  print("Hello from remote")
+void main() {
+  print("Hello from remote");
 }
